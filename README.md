@@ -10,9 +10,9 @@
 
 ---
 
-## 🛠 Skills
+## Skills
 
-### ⚡ Main Languages
+### Main Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,19 +21,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 🌐 Web Development
+### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Etc.
+### Etc.
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
-## 🖥 Tools & Environments
+## Tools & Environments
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 What I'm Doing
+## What I'm Doing
 
 - **카카오톡 DB봇 / Iris봇 개발**: JS & Python으로 편리하고 강력한 카카오톡 자동화 봇을 만들고 있습니다.
 - **웹 프로젝트**: HTML & CSS를 활용해 나만의 홈페이지와 유용한 웹 사이트를 구축합니다.
@@ -54,7 +54,7 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
 - **KakaoTalk DB봇**: 카카오톡 DB를 활용한 자동화 봇 — 명령어 처리, 데이터 관리 기능 제공
 - **Web Portfolio**: 개인용 홈페이지 및 웹 기반 서비스 개발
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -74,6 +74,6 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email**: jhy110516@naver.com
