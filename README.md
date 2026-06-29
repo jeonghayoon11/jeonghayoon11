@@ -1,79 +1,136 @@
-<!-- Header Banner -->
+<!-- Header -->
+
 <div align="center">
 
+# 👋 Hi, I'm **나는컴맹이다**
 
-# Hi there 👋, 나는컴맹이다 입니다!
+### Full Stack Developer · Security Researcher · Founder of CodeLab Team
 
-**중학생 개발자 나는컴맹이다 입니다 :)**
+**🚀 운영 중:** https://www.codelabteam.com
+
+웹 개발부터 시스템 프로그래밍, 보안 연구, 디스코드/카카오톡 봇 개발까지 다양한 프로젝트를 진행하고 있습니다.
 
 </div>
 
 ---
 
-## Skills
+# 💻 Tech Stack
 
-### Main Languages
+## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Etc.
-
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
 
 ---
 
-## Tools & Environments
+## Full Stack
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
-## What I'm Doing
+## Security & Reverse Engineering
 
-- **카카오톡 DB봇 / Iris봇 개발**: JS & Python으로 편리하고 강력한 카카오톡 자동화 봇을 만들고 있습니다.
-- **웹 프로젝트**: HTML & CSS를 활용해 나만의 홈페이지와 유용한 웹 사이트를 구축합니다.
-- **C / C++ 알고리즘 & 시스템**: 성능이 중요한 문제들을 직접 구현하며 실력을 키웁니다.
-- **Linux 환경**: 개발 환경 세팅부터 서버 운용까지 Linux를 편하게 활용합니다.
-
----
-
-## Projects
-
-- **KakaoTalk DB봇**: 카카오톡 DB를 활용한 자동화 봇 — 명령어 처리, 데이터 관리 기능 제공
-- **Web Portfolio**: 개인용 홈페이지 및 웹 기반 서비스 개발
-- **Python Scripts**: 일상에서 쓸 수 있는 자동화 도구 & 유틸리티 제작
+* Web Security
+* Reverse Engineering
+* Malware Analysis
+* Binary Analysis
+* Vulnerability Research
+* Linux System
+* Network Programming
 
 ---
 
-## Stats
+## Tools
+
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+# 🚀 About Me
+
+* 👨‍💻 Full Stack Developer
+* 🛡️ Web Security Research
+* 🔍 Reverse Engineering
+* 🤖 Discord Bot Developer
+* 💬 KakaoTalk Bot Developer
+* 🌐 Founder of **CodeLab Team**
+* ⚙️ Backend / Frontend / Automation
+* 🐧 Linux & Server Management
+
+---
+
+# 📌 Current Projects
+
+### 🌐 CodeLab Team
+
+운영 및 개발
+
+* 공식 홈페이지 개발
+* 웹 서비스 운영
+* 서버 관리
+* 보안 연구
+
+### 🤖 Discord Bot
+
+* Slash Commands
+* Dashboard
+* Database
+* REST API
+* Automation
+
+### 💬 KakaoTalk Bot
+
+* DB Bot
+* AI 기능
+* 자동화 시스템
+* 관리 시스템
+
+### 🔒 Security
+
+* Web Security
+* Reverse Engineering
+* Binary Analysis
+* Malware Analysis
+* Secure Coding
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
 
 </div>
 
 ---
 
-## Contact
+# 📫 Contact
 
-- **Email**: jhy110516@naver.com
+🌐 Website
+
+https://www.codelabteam.com
+
+📧 Email
+
+[admin@codelabteam.com](mailto:admin@codelabteam.com)
+
+---
+
+> **"AI는 개발 속도를 높여주지만, 코드를 이해하는 사람이 결국 개발자다."**
