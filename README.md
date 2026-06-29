@@ -6,7 +6,7 @@
 
 ### Full Stack Developer · Security Researcher · Founder of CodeLab Team
 
-**🚀 운영 중:** https://www.codelabteam.com
+**운영 중:** https://www.codelabteam.com
 
 웹 개발부터 시스템 프로그래밍, 보안 연구, 디스코드/카카오톡 봇 개발까지 다양한 프로젝트를 진행하고 있습니다.
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -60,22 +60,22 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
-* 👨‍💻 Full Stack Developer
-* 🛡️ Web Security Research
-* 🔍 Reverse Engineering
-* 🤖 Discord Bot Developer
-* 💬 KakaoTalk Bot Developer
-* 🌐 Founder of **CodeLab Team**
-* ⚙️ Backend / Frontend / Automation
-* 🐧 Linux & Server Management
+* Full Stack Developer
+* Web Security Research
+* Reverse Engineering
+* Discord Bot Developer
+* KakaoTalk Bot Developer
+* Founder of **CodeLab Team**
+* Backend / Frontend / Automation
+* Linux & Server Management
 
 ---
 
-# 📌 Current Projects
+# Current Projects
 
-### 🌐 CodeLab Team
+### CodeLab Team
 
 운영 및 개발
 
@@ -84,7 +84,7 @@
 * 서버 관리
 * 보안 연구
 
-### 🤖 Discord Bot
+### Discord Bot
 
 * Slash Commands
 * Dashboard
@@ -92,14 +92,14 @@
 * REST API
 * Automation
 
-### 💬 KakaoTalk Bot
+### KakaoTalk Bot
 
 * DB Bot
 * AI 기능
 * 자동화 시스템
 * 관리 시스템
 
-### 🔒 Security
+### Security
 
 * Web Security
 * Reverse Engineering
@@ -109,7 +109,7 @@
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -121,13 +121,14 @@
 
 ---
 
-# 📫 Contact
+# Contact
 
-🌐 Website
+Website
 
 https://www.codelabteam.com
+https://dev.codelabteam.com
 
-📧 Email
+Email
 
 [admin@codelabteam.com](mailto:admin@codelabteam.com)
 
