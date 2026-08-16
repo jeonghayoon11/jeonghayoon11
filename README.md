@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Gkdbs3077
-&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Security%20Researcher&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Gkdbs3077&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Security%20Researcher&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.codelabteam.com"><img src="https://img.shields.io/badge/CodeLab_Team-0f172a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="https://dev.codelabteam.com"><img src="https://img.shields.io/badge/Portfolio-1e293b?style=flat-square&logo=aboutdotme&logoColor=white" /></a>
@@ -144,14 +143,8 @@ Validated IoT Air Control
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeonghayoon11&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="95%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeonghayoon11&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghayoon11&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeonghayoon11&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats-awuuguru8-gkdbs3077.vercel.app/api?username=jeonghayoon11&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats-awuuguru8-gkdbs3077.vercel.app/api/top-langs/?username=jeonghayoon11&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
