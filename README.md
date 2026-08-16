@@ -27,42 +27,56 @@
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 **Languages**
 
-<img src="https://cdn.simpleicons.org/python/3776AB" height="28" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" />
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" />
-<img src="https://cdn.simpleicons.org/go/00ADD8" height="28" />
-<img src="https://cdn.simpleicons.org/rust/000000" height="28" />
-<img src="https://cdn.simpleicons.org/c/A8B9CC" height="28" />
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" height="28" />
-<img src="https://cdn.simpleicons.org/openjdk/EA2D2E" height="28" />
-<img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="28" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
+**Mobile**
 
-**Full Stack & Infra**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="28" />
-<img src="https://cdn.simpleicons.org/express/000000" height="28" />
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="28" />
-<img src="https://cdn.simpleicons.org/mysql/4479A1" height="28" />
-<img src="https://cdn.simpleicons.org/redis/DC382D" height="28" />
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="28" />
-<img src="https://cdn.simpleicons.org/nginx/009639" height="28" />
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="28" />
-<img src="https://cdn.simpleicons.org/git/F05032" height="28" />
+**Frontend**
 
-</td>
-</tr>
-</table>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Security & Reverse Engineering**
+**Backend & Server**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Security**
 
 `Web Security` `Reverse Engineering` `Malware Analysis` `Binary Analysis` `Vulnerability Research` `Network Programming`
 
@@ -129,12 +143,14 @@ Validated IoT Air Control
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0f172a&icon_color=1e293b&text_color=334155" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeonghayoon11&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" width="95%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=ffffff&stroke=0f172a&ring=1e293b&fire=334155&currStreakLabel=0f172a" height="165" />
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true&bg_color=ffffff&color=0f172a&line=334155&point=1e293b" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeonghayoon11&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghayoon11&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeonghayoon11&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
